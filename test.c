@@ -76,7 +76,7 @@ int main() {
         }
     }
 
-    if (i == 32) {
+    if (i == 61) {
         printf("key exchange was correct\n");
     }
 
